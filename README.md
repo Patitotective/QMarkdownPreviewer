@@ -21,6 +21,11 @@ If you want to see an example, run `QMarkdownPreviewer` itself.
 
 [![Preview example](https://github.com/Patitotective/QMarkdownPreviewer/blob/main/screenshot.png?raw=true)](https://github.com/Patitotective/QMarkdownPreviewer)
 
+## Another implementation
+**PyAPIReference** uses a similar code of this markdown highlighter to do this.
+[![PyAPIRefernece GIF example](https://github.com/Patitotective/QMarkdownPreviewer/blob/main/gif.gif?raw=true)](https://patitotective.github.io/PyAPIReference/)  
+_See https://github.com/Patitotective/PyAPIReference/blob/main/PyAPIReference/GUI/markdown_previewer.py_
+
 About
 ---
 **Patitotective**:
