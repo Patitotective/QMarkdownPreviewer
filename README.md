@@ -19,6 +19,8 @@ Where `path` is the path of the file to preview.
 ## Example
 If you want to see an example, run `QMarkdownPreviewer` itself.
 
+[![Preview example](https://github.com/Patitotective/QMarkdownPreviewer/blob/main/screenshot.png?raw=true)](https://github.com/Patitotective/QMarkdownPreviewer)
+
 About
 ---
 **Patitotective**:
